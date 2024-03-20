@@ -1,4 +1,5 @@
 # BMedia Taskbar Widget
+![](https://github.com/rohandf/BMedia-Taskbar-Widget/blob/master/showcase.gif)  
 This is a Rainmeter skin that lets you see what's playing, its progress, and album art/thumbnail.  
 It also lets you seek to a point, control volume (New!) and pause, play, rewind and forward.
 
